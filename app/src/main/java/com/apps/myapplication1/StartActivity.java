@@ -66,7 +66,7 @@ private @NonNull ActivityStartBinding binding;
     public void click(View view) {
 
         Retrofit retrofit = new Retrofit.Builder()
-                .baseUrl("http://api.themoviedb.org/3/movie/")
+                .baseUrl("http://api.themoviedb.org/3/movie/top_rated/")
                 .addConverterFactory(GsonConverterFactory.create())
                 .build();
 

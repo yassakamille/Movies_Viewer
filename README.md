@@ -17,6 +17,7 @@
 <br/>
 <img src = "https://github.com/yassakamille/Sign-Up-System/assets/85362073/1003b3f3-eecd-420d-9a23-5676709a1fd3" width="250" height="475"/>
 <br/>
+
 [![Architecture diagram of yassakamille/movies_viewer](https://gitdiagram.com/yassakamille/movies_viewer/diagram.png)](https://gitdiagram.com/yassakamille/movies_viewer?utm_source=readme&utm_medium=picture)
 
 
